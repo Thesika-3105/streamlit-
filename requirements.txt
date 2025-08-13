@@ -2,7 +2,6 @@ streamlit
 sentence-transformers
 faiss-cpu
 deep-translator
-SpeechRecognition
-gTTS
 plotly
-pydub
+numpy
+pandas
